@@ -1,0 +1,3 @@
+#cmakedefine HAVE_MALLOC_H 1
+#cmakedefine HAVE_EPOLL_H 1
+#cmakedefine HAVE_KQUEUE_H 1
